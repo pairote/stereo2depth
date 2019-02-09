@@ -4,7 +4,7 @@
 stereo2depth - generate a depth map from a stereoscopic image using OpenCV.
 
 Usage:
-    Run `python stereo2depth images/stereo.jpg`
+    Run `python stereo2depth.py images/stereo.jpg`
     and the depth map will be saved to `images/stereo_depth.jpg`
 '''
 
